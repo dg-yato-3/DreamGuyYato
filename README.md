@@ -1,7 +1,7 @@
 ### :unicorn: About Me :
 
-<p align="center">
-  <img src="https://ibb.co/2sNHZ3j" />
+p align="center">
+  <img src="https://i.ibb.co/YZ8tLPf/IMG-20240222-WA0139.jpg" />
 </p>
 
 - 👋 Hi, I’m Dream Guy Yato 
