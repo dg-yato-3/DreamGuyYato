@@ -1,6 +1,6 @@
 ## Dreamguyyato 
 <p align="center">
-<img src="https://cdn.meitang.xyz/file/BQACAgUAAxkDAAODZt1iYEhKy8IPGbwZfO2Q__AjY7gAAqEQAAI5fuhW8jVQFLmoskM2BA" alt="nz" width="350"/>
+<img src="https://i.imgur.com/cC0SIfy.jpeg" alt="nz" width="350"/>
 </p>
 
 <h3 align="center">Min ti chaktuah chuan engkim ka ti thei</h3>
