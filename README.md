@@ -1,11 +1,11 @@
-## Dreamguyyato 
+## My profile 
 <p align="center">
 <img src="https://i.imgur.com/cC0SIfy.jpeg" alt="nz" width="350"/>
 </p>
 
 - 👋 Hi, I’m Yato 
 - ❎ I am just a student (Beginner)
-- 👨🏻‍🦱 25 years old
+- 👨🏻‍🦱 17 years old
 - 🇮🇳 Currently living in India, Northeast, Mizoram
 
 <h3 align="center">Min ti chaktuah chuan engkim ka ti thei</h3>
