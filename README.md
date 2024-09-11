@@ -3,6 +3,11 @@
 <img src="https://i.imgur.com/cC0SIfy.jpeg" alt="nz" width="350"/>
 </p>
 
+- 👋 Hi, I’m Yato 
+- ❎ I am just a student (Beginner)
+- 👨🏻‍🦱 25 years old
+- 🇮🇳 Currently living in India, Northeast, Mizoram
+
 <h3 align="center">Min ti chaktuah chuan engkim ka ti thei</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamguy-yato&label=Profile%20views&color=0e75b6&style=flat" alt="dreamguyyato" /> </p>
